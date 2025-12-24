@@ -77,7 +77,7 @@ Schedule administrative tasks, team huddles, or buffer time during early hours t
 ### Monthly Appointments Fluctuate Around a 70-Visit Average
 
 
-[Monthly Appointments Fluctuate Around a 70-Visit Average](https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/Appts%20by%20month.png?raw=true)
+![Monthly Appointments Fluctuate Around a 70-Visit Average](https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/Appts%20by%20month.png?raw=true)
 
 
 Monthly appointment volume fluctuates significantly around an average of approximately 70 visits per month, with pronounced peaks and troughs throughout the year.
