@@ -35,7 +35,7 @@ The dataset as seen below consists of six tables: billing, appointment, patient,
 
 <p align="center">
   <img src="https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/Healthcare%20Appointment%20Performance%20Dashboard.png?raw=true"
-       width="900" height="500">
+       width="900" height="1000">
 </p>
 
 
@@ -227,7 +227,7 @@ Analyze workflows of providers with consistently shorter visit times without ele
 
 <p align="center">
   <img src="https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/Healthcare%20Financial%20Performance%20Dashboard.png?raw=true"
-       width="900" height="500">
+       width="900" height="900">
 </p>
 
 
