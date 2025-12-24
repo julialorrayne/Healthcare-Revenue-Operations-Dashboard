@@ -28,8 +28,11 @@ The dataset as seen below consists of six tables: billing, appointment, patient,
        width="650" height="380">
 </p>
 
+---
 
 ## Executive Sumamary
+
+---
 
 **Key Findings**
 
@@ -62,6 +65,7 @@ Consider controlled overbooking or waitlist activation during midweek
 
 Align staffing and provider schedules to account for predictable midweek attrition
 
+---
 
 ### No-Shows Peak in the Early Morning (8–10 AM)
 
@@ -95,6 +99,7 @@ Reserve early morning appointments for lower-risk patient groups or follow-ups w
 Operational Scheduling Adjustments:
 Schedule administrative tasks, team huddles, or buffer time during early hours to mitigate idle capacity risk.
 
+---
 
 ### Monthly Appointments Fluctuate Around a 70-Visit Average
 
@@ -129,6 +134,7 @@ Encourage advance booking and follow-ups in low-demand months to improve utiliza
 Revenue Planning:
 Use monthly volume trends to forecast revenue more accurately and mitigate financial volatility.
 
+---
 
 ### Appointments by Department and Provider
 
@@ -164,6 +170,7 @@ Use appointment volume as an operational KPI to detect sustained overload or und
 Patient Access Improvement:
 Redirect overflow demand to available providers to reduce wait times and no-show risk.
 
+---
 
 ### No-Shows
 
@@ -175,6 +182,7 @@ Redirect overflow demand to available providers to reduce wait times and no-show
 
 Approximately 15% of scheduled appointments result in no-shows, representing a significant and recurring source of lost capacity and revenue for Horizon Care.
 
+---
 
 ### No-Shows by Provider
 
@@ -196,6 +204,7 @@ Pedro King – 6 no-shows
 
 Meanwhile, several providers report 0–1 no-shows, demonstrating that lower no-show rates are achievable under the same organizational conditions.
 
+---
 
 ### Average Visit Time by Department and Provider
 
@@ -230,6 +239,7 @@ Analyze workflows of providers with consistently shorter visit times without ele
        width="900" height="900">
 </p>
 
+---
 
 ### Monthly Revenue Fluctuates Around a $13.8K Average
 
@@ -257,6 +267,7 @@ Focus no-show reduction strategies and reminder interventions ahead of historica
 
 Improve Revenue per Visit
 
+---
 
 ### Total Revenue by Payer
 
@@ -270,6 +281,7 @@ Revenue is unevenly distributed across payers, with a small subset of patients c
 
 This indicates moderate revenue concentration, not extreme dependence on a single payer, but still enough variation to warrant payer-level monitoring.
 
+---
 
 ### Total Revenue by Department and Doctor
 
@@ -282,6 +294,8 @@ This indicates moderate revenue concentration, not extreme dependence on a singl
 Revenue generation varies significantly both across departments and among providers within the same department, indicating that total revenue is driven by a combination of departmental service mix and individual provider performance.
 
 While certain departments consistently generate higher revenue, there is also noticeable intra-department variability, suggesting differences in case complexity, visit volume, and procedure mix among doctors.
+
+---
 
 **Strategic Recommendations**
 
