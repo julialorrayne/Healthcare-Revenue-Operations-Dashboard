@@ -33,8 +33,7 @@ The dataset as seen below consists of six tables: billing, appointment, patient,
 ## Executive Sumamary
 
 ---
-
-**Key Findings**
+## Operations Analysis
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/julialorrayne/Projects-images/refs/heads/main/Healthcare/Healthcare%20Appointment%20Performance%20Dashboard.png" 
@@ -42,7 +41,9 @@ The dataset as seen below consists of six tables: billing, appointment, patient,
 </p>
 
 
-### No-Shows by Day of the Week
+---
+
+**Key Findings**
 
 <p align="center">
   <img src="https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/No-Shows%20by%20day%20of%20the%20week.png?raw=true"
@@ -67,7 +68,6 @@ Align staffing and provider schedules to account for predictable midweek attriti
 
 ---
 
-### No-Shows Peak in the Early Morning (8–10 AM)
 
 <p align="center">
   <img src="https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/No-Shows%20by%20time%20of%20the%20day.png?raw=true"
@@ -101,7 +101,6 @@ Schedule administrative tasks, team huddles, or buffer time during early hours t
 
 ---
 
-### Monthly Appointments Fluctuate Around a 70-Visit Average
 
 <p align="center">
   <img src="https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/Appts%20by%20month.png?raw=true"
@@ -136,7 +135,6 @@ Use monthly volume trends to forecast revenue more accurately and mitigate finan
 
 ---
 
-### Appointments by Department and Provider
 
 <p align="center">
   <img src="https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/Appts.%20by%20department%20and%20doctor.png?raw=true"
@@ -172,7 +170,6 @@ Redirect overflow demand to available providers to reduce wait times and no-show
 
 ---
 
-### No-Shows
 
 <p align="center">
   <img src="https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/No-Shows.png?raw=true"
@@ -184,7 +181,6 @@ Approximately 15% of scheduled appointments result in no-shows, representing a s
 
 ---
 
-### No-Shows by Provider
 
 <p align="center">
   <img src="https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/No-Shows%20by%20doctors.png?raw=true"
@@ -206,7 +202,6 @@ Meanwhile, several providers report 0–1 no-shows, demonstrating that lower no-
 
 ---
 
-### Average Visit Time by Department and Provider
 
 <p align="center">
   <img src="https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/Visit%20Time%20by%20department%20and%20doctor.png?raw=true"
@@ -233,7 +228,8 @@ Adjust appointment slot lengths by provider and department rather than using uni
 Benchmark Best Practices
 Analyze workflows of providers with consistently shorter visit times without elevated no-show or cancellation rates.
 
-
+---
+## Financial Analysis
 <p align="center">
   <img src="https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/Healthcare%20Financial%20Performance%20Dashboard.png?raw=true"
        width="900" height="900">
@@ -241,7 +237,7 @@ Analyze workflows of providers with consistently shorter visit times without ele
 
 ---
 
-### Monthly Revenue Fluctuates Around a $13.8K Average
+**Key Findings**
 
 <p align="center">
   <img src="https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/revenue%20by%20month.png?raw=true"
@@ -269,7 +265,6 @@ Improve Revenue per Visit
 
 ---
 
-### Total Revenue by Payer
 
 <p align="center">
   <img src="https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/revenue%20by%20payer.png?raw=true"
@@ -282,8 +277,6 @@ Revenue is unevenly distributed across payers, with a small subset of patients c
 This indicates moderate revenue concentration, not extreme dependence on a single payer, but still enough variation to warrant payer-level monitoring.
 
 ---
-
-### Total Revenue by Department and Doctor
 
 <p align="center">
   <img src="https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/revenue%20by%20department%20and%20doctor.png?raw=true"
