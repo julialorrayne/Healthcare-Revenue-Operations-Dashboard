@@ -25,7 +25,7 @@ The dataset as seen below consists of six tables: billing, appointment, patient,
 
 <p align="center">
   <img src="https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/ERD.png?raw=true"
-       width="750" height="500">
+       width="650" height="380">
 </p>
 
 
@@ -67,7 +67,7 @@ Align staffing and provider schedules to account for predictable midweek attriti
 
 <p align="center">
   <img src="https://github.com/julialorrayne/Projects-images/blob/main/Healthcare/No-Shows%20by%20time%20of%20the%20day.png?raw=true"
-       width="700" height="1000">
+       width="650" height="380">
 </p>
 
 
