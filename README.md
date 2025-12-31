@@ -255,7 +255,7 @@ Uniform scheduling blocks fail to reflect observed visit complexity, increasing 
 
 Monthly revenue remains relatively stable across the year, fluctuating around an average of approximately $13.8K, with noticeable short-term peaks and dips rather than a sustained upward or downward trend.
 
-The absence of a long-term upward trend suggests that operational improvements—not volume growth alone—are the primary lever for revenue optimization.
+The absence of a long-term upward trend suggests that operational improvements—not volume growth alone—are the primary driver for revenue optimization.
 
 Revenue Pattern Observations
 
@@ -291,7 +291,7 @@ While payer concentration risk is moderate, protecting higher-revenue appointmen
 
 Revenue generation varies significantly both across departments and among providers within the same department, indicating that total revenue is driven by a combination of departmental service mix and individual provider performance.
 
-While certain departments consistently generate higher revenue, there is also noticeable intra-department variability, suggesting differences in case complexity, visit volume, and procedure mix among doctors.
+While certain departments consistently generate higher revenue, there is also noticeable intra-department variability, suggesting differences in case complexity and visit volume.
 
 High revenue variability within departments indicates that provider-level optimization can materially impact total departmental performance without expanding capacity.
 
@@ -300,19 +300,19 @@ High revenue variability within departments indicates that provider-level optimi
 ## Recommendations
 
 ### 1. Implement Targeted No-Show Reduction Strategies (Highest Impact)
-Midweek and early-morning appointments represent the highest no-show risk and revenue leakage.
+Midweek and early-morning appointments represent the highest no-show risk and lost revenue exposure.
 
-- Deploy enhanced reminder workflows (SMS + email) for Tuesday–Thursday and 8–10 AM appointments
+- Implement enhanced reminder workflows (SMS + email) for Tuesday–Thursday and 8–10 AM appointments
 - Require same-day confirmations for high-risk slots
-- Pilot controlled overbooking using historical no-show rates
+- Test controlled overbooking using historical no-show rates
 
 ---
 
 ### 2. Align Scheduling Capacity With Seasonal Demand
 Appointment volume and revenue fluctuate significantly throughout the year.
 
-- Adjust staffing and appointment availability during peak months (March, November)
-- Expand proactive outreach during historically low-demand months (July, October)
+- Adjust staffing and appointment availability during peak months 
+- Expand proactive outreach during historically low-demand months 
 
 ---
 
@@ -321,7 +321,6 @@ Appointment volume varies widely among providers within the same department.
 
 - Redirect routine visits to underutilized providers
 - Protect high-volume providers from sustained overload
-- Use provider appointment volume as an operational KPI
 
 ---
 
@@ -336,13 +335,12 @@ A small group of providers account for a disproportionate share of no-shows.
 ### 5. Optimize Appointment Lengths Using Visit Duration Data
 Observed visit durations vary significantly by provider and specialty.
 
-- Adjust appointment templates to better reflect real visit times
-- Standardize best-performing workflows to reduce delays and idle time
+Use observed visit duration data to tailor appointment lengths by provider and specialty, and replicate workflows from consistently efficient providers to reduce delays and unused capacity.
 
 ---
 
 ### 6. Protect High-Value Appointments to Maximize Revenue
-Revenue concentration indicates certain visits have outsized financial impact.
+Revenue concentration indicates certain visits have significantly greater financial impact.
 
 - Apply stronger confirmation requirements to high-value appointments
 - Reserve optimal time slots for revenue-critical visit types
