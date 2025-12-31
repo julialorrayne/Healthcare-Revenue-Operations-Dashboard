@@ -55,7 +55,7 @@ Monthly appointment volume fluctuates around a 70-visit average, with highest pe
 + Provider-Level Imbalances Drive Inefficiency:
 Appointment volume varies widely across providers within the same department. In Oncology, one provider records 37 visits, far exceeding peers, while others remain underutilized. Similar imbalances appear across Cardiology and Orthopedics, increasing burnout risk and access delays.
 
-+ No-Shows Are Provider-Specific, Not Random:
++ No-Shows Are Provider-Specific:
 A small group of providers accounts for a disproportionate share of missed appointments—e.g., Rafael Lee (7 no-shows), Henrique Lee (7), Pedro King (6)—while several providers report 0–1 no-shows, demonstrating that lower no-show exposure is achievable under the same organizational conditions.
 
 + Visit Duration Varies Substantially by Provider:
