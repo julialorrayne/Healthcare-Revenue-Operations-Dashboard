@@ -15,8 +15,7 @@ DBeaver · PostgreSQL · Tableau · Python
 **Techniques:** 
 Relational Database Design & Data Modeling  · SQL DDL & Constraint Enforcement · Exploratory Data Analysis (EDA) · Time-Series Analysis · SQL Querying & Data Integration · Data Visualization
 
-DDL can be found here: 
-Python can be found gere:
+
 ---
 
 ## Data Structure and ERD (Entity Relationship Diagram)
