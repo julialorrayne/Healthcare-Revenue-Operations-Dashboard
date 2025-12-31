@@ -62,7 +62,7 @@ A small group of providers accounts for a disproportionate share of missed appoi
 Average visit times range from ~22 minutes to over 37 minutes, with the longest visits in Cardiology and Radiology. Uniform scheduling blocks fail to reflect this variability, contributing to idle time, delays, and throughput inefficiencies.
 
 + Revenue Is Stable but Operationally Constrained:
-Monthly revenue fluctuates around a $13.8K average with short-term peaks and dips rather than sustained growth. Revenue variability closely mirrors appointment volume and no-show patterns, indicating that operational optimization—not volume expansion—is the primary growth lever.
+Monthly revenue fluctuates around a $13.8K average with short-term peaks and dips rather than sustained growth. Revenue variability closely mirrors appointment volume and no-show patterns, indicating that operational optimization—not volume expansion—is the primary growth driver.
 
 ## Strategic Recommendations
 
