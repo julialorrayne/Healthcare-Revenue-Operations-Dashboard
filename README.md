@@ -47,7 +47,7 @@ Midweek appointments (Tuesday–Thursday) experience 20–40% higher no-show vol
 No-shows peak during 8–10 AM appointments, with the highest volume at 8 AM, then decline steadily throughout the day. After 11 AM, missed appointments drop sharply and remain low, highlighting time-of-day as a major attendance driver.
 
 + Overall No-Show Rate Is Operationally Significant:
-Approximately 15% of all scheduled appointments result in no-shows, representing a recurring source of lost capacity and unrealized revenue. Even a modest reduction of 3–5 percentage points would materially increase completed visits without additional staffing.
+Approximately 15% of all scheduled appointments result in no-shows, representing a recurring source of lost capacity and unrealized revenue. Even a modest reduction of 3–5 percent would materially increase completed visits without additional staffing.
 
 + Seasonal Volatility in Appointment Demand:
 Monthly appointment volume fluctuates around a 70-visit average, with peaks in March (103 visits) and November (~97), and a sharp decline in October (43). This uneven demand introduces avoidable inefficiencies in staffing and revenue planning.
