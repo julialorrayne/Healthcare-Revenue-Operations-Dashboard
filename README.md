@@ -9,7 +9,7 @@ The primary objective is to identify operational inefficiencies, such as no-show
 
 
 **Tools Used:**
-DBeaver · PostgreSQL · Python · Tableau
+DBeaver · PostgreSQL · Google Cloud · Python · Tableau
 
 
 **Techniques:** 
